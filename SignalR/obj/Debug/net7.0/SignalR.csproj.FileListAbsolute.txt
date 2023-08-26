@@ -78,3 +78,7 @@
 /Users/sahilgupta/Repositories/SignalR/SignalR/obj/Debug/net7.0/SignalR.pdb
 /Users/sahilgupta/Repositories/SignalR/SignalR/obj/Debug/net7.0/SignalR.genruntimeconfig.cache
 /Users/sahilgupta/Repositories/SignalR/SignalR/obj/Debug/net7.0/ref/SignalR.dll
+/Users/sahilgupta/Repositories/SignalR/SignalR/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/sahilgupta/Repositories/SignalR/SignalR/bin/Debug/net7.0/Npgsql.dll
+/Users/sahilgupta/Repositories/SignalR/SignalR/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/sahilgupta/Repositories/SignalR/SignalR/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
