@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/js/DeathlyHallows.js"
     },
     {
+      "Id": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/HouseGroup.js",
+      "PackagePath": "staticwebassets/js/HouseGroup.js"
+    },
+    {
       "Id": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/UsersCount.js",
       "PackagePath": "staticwebassets/js/UsersCount.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ekDt/aqKLOfqDgWqjuUiQOs/llKkPctv5hEKmm1FGeg=",
+  "Hash": "vl14w90nRyNZQefoHE6obf/pB9vmPODL+YmW2W7IfCo=",
   "Source": "SignalR",
   "BasePath": "_content/SignalR",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/DeathlyHallows.js"
+    },
+    {
+      "Identity": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/HouseGroup.js",
+      "SourceId": "SignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/",
+      "BasePath": "_content/SignalR",
+      "RelativePath": "js/HouseGroup.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/HouseGroup.js"
     },
     {
       "Identity": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/signalr.js",

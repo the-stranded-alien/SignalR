@@ -50,6 +50,7 @@ public class Program
         app.MapRazorPages();
         app.MapHub<UserHub>("/hubs/userCount");
         app.MapHub<DeathlyHallowsHub>("/hubs/deathlyHallows");
+        app.MapHub<HouseGroupHub>("/hubs/houseGroups");
         app.Run();
     }
 }
