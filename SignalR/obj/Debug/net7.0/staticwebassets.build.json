@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WYvKn9ByWX/x7hSQIDzZYi9NG/0j6tXzDeGGMKFevZY=",
+  "Hash": "ekDt/aqKLOfqDgWqjuUiQOs/llKkPctv5hEKmm1FGeg=",
   "Source": "SignalR",
   "BasePath": "_content/SignalR",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/DeathlyHallows.js",
+      "SourceId": "SignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/",
+      "BasePath": "_content/SignalR",
+      "RelativePath": "js/DeathlyHallows.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/DeathlyHallows.js"
     },
     {
       "Identity": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/signalr.js",

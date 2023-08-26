@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/DeathlyHallows.js",
+      "PackagePath": "staticwebassets/js/DeathlyHallows.js"
+    },
+    {
       "Id": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/UsersCount.js",
       "PackagePath": "staticwebassets/js/UsersCount.js"
     },
