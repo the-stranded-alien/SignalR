@@ -51,6 +51,7 @@ public class Program
         app.MapHub<UserHub>("/hubs/userCount");
         app.MapHub<DeathlyHallowsHub>("/hubs/deathlyHallows");
         app.MapHub<HouseGroupHub>("/hubs/houseGroups");
+        app.MapHub<NotificationHub>("/hubs/notification");
         app.Run();
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vl14w90nRyNZQefoHE6obf/pB9vmPODL+YmW2W7IfCo=",
+  "Hash": "TInJIiVuS7oGIZoGGw0NBgZGBEMMA8kEgpIU9FBj0WI=",
   "Source": "SignalR",
   "BasePath": "_content/SignalR",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/HouseGroup.js"
+    },
+    {
+      "Identity": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/Notification.js",
+      "SourceId": "SignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/",
+      "BasePath": "_content/SignalR",
+      "RelativePath": "js/Notification.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/Notification.js"
     },
     {
       "Identity": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/signalr.js",

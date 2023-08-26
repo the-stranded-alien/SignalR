@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/js/HouseGroup.js"
     },
     {
+      "Id": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/Notification.js",
+      "PackagePath": "staticwebassets/js/Notification.js"
+    },
+    {
       "Id": "/Users/sahilgupta/Repositories/SignalR/SignalR/wwwroot/js/UsersCount.js",
       "PackagePath": "staticwebassets/js/UsersCount.js"
     },
